@@ -1,0 +1,18 @@
+number of data_sets//3
+amount of data in 1st set//3
+x1
+x2
+x3
+
+amount of data in 2nd set//4
+x1
+x2
+x3
+x4
+
+amount of data in 3rd set//5
+x1
+x2
+x3
+x4
+x5
