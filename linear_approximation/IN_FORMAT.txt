@@ -1,0 +1,24 @@
+number of plots to analize //2
+amount of 1st set X/Y pairs//5
+x1
+x2
+x3
+x4
+x5
+
+y1
+y2
+y3
+y4
+y5
+
+amount of 2nd set X/Y pairs//4
+x1
+x2
+x3
+x4
+
+y1
+y2
+y3
+y4
